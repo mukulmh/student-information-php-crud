@@ -1,0 +1,24 @@
+****Must follow the steps to run the project!****
+
+First copy the whole folder to xampp/htdocs folder. Then follow the steps. 
+
+1. Open Xampp and start Apache and mysql server.
+2. Type localhost/phpmyadmin in your browser.
+3. Create a new database named mukul.
+4. Import mukul.sql file by clicking import. This file will be available inside database folder.
+5. After importing the database, type localhost/wip in your browser.
+6. Register an account by giving name, email and password.
+7. Login with the account and explore... <3
+
+Created By:
+Name: Mehedy Hassan Mukul
+ID: 2018000000087
+Batch: 48
+Southeast University
+Department of CSE
+
+Supervised By:
+Md. Mijanur Rahman
+Assistant Professor
+Southeast University
+Department of CSE
